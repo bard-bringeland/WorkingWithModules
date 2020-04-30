@@ -1,4 +1,4 @@
-(function() {
+// (function() {
     function getSessions(){
         return new Promise(function(resolve, reject){
           var oReq = new XMLHttpRequest();
@@ -47,4 +47,4 @@
         });
       
       
-}())
+//}())
