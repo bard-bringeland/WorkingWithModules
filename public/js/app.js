@@ -1,5 +1,5 @@
 import {getSessions} from './js/sessionsRepository';
-import {sessionsTemlate} from './js/template'
+import {sessionTemlate} from './js/template'
 
 // (function() {
 
